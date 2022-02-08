@@ -1,4 +1,4 @@
-# MagicFocusEF
+# MagicFocusEF Work-In-Progress
 Enabling focusing using EF lenses on the BMPCC6K using build-in ultrasonic motors. No need for external focus motors. The camera control part uses the BlueMagic32 library.
 
 ![Alt M5Core2_Magic_FocusEF](images/m5core2_magicfocus.jpg?raw=true "M5Core2_Magic_FocusEF")
